@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30309.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsersInstructionsTutorial", "UsersInstructionsTutorial\UsersInstructionsTutorial.csproj", "{0BDA5A8F-C5DB-4217-8B6D-3B83527AE0DF}"
 EndProject
-Global
+Globaldfdfdsfdsfdsfdsfsdf
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
