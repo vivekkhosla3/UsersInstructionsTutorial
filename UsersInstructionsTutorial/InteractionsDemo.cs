@@ -8,7 +8,7 @@ namespace UsersInstructionsTutorial
 {
 
     [TestFixture]
-     public class InteractionsDemo
+     public class InteractionsDemodssddasdsdasdasdsada
     {
         [Test]
         public void Example1()
